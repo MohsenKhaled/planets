@@ -1,6 +1,9 @@
 # planets
+* Mercury 
+* Venus
+* Earth
 * Mars
+* Jupiter
 * Saturn
-* venus
-* jorden
-* uranus
+* Uranus
+* Neptune
