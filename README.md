@@ -2,3 +2,4 @@
 *Mars
 *Saturn
 * venus
+* uranus
