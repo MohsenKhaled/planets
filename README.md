@@ -1,4 +1,5 @@
 # planets
-*Mars
-*Saturn
+* Mars
+* Saturn
 * venus
+* jorden
