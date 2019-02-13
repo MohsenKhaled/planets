@@ -3,3 +3,4 @@
 * Saturn
 * venus
 * jorden
+* uranus
